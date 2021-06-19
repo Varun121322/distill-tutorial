@@ -3,7 +3,19 @@ title: "About this site"
 description: |
   Some additional details about the website
 ---
-
+## About Me
+Hello World! My name is **Varun Mittal** and I am a rising junior at James B. Conant High School. In my free time, I enjoy playing basketball and soccer, as well as spending time with my family. 
+---
+## About the Project
+Title: *Home Court Advantage*, an examination into how much affect homecourt advantage really affects victories
+---
+### Goals 
+* Goal 1: To make something cool in R
+* Goal 2: To find an interesting trend/revelation using statistical examination with R
+  + A complication of this could be my lack of sports data so far  
+  + "This is data science"
+  ~ - Preceptor
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
